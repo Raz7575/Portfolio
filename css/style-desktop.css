@@ -76,6 +76,7 @@ form {
 
 footer {
     background:black;
+    background: linear-gradient(135deg, black, skyblue);
     color: white;
     text-align: center;
     padding: 10px;
